@@ -1,5 +1,7 @@
 # Terminal MCP Server
 
+[简体中文](README_CN.md)
+
 The Terminal MCP Server is a Model Context Protocol (MCP) server designed to facilitate remote and local command execution, with robust SSH capabilities. It allows your AI models or other applications to securely execute commands on remote hosts via SSH or locally, providing a powerful way to interact with various systems.
 
 ## Highlights
