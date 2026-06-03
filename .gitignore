@@ -1,2 +1,4 @@
 node_modules/
-build/
+build/*.d.ts
+build/*.d.ts.map
+build/*.js.map
